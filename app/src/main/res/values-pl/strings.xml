@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vtName">Imie</string>
+    <string name="vtSurname">Nazwisko</string>
+    <string name="vtNumberRate">Liczba ocen</string>
+    <string name="bRate">Oceny</string>
+    <string name="tsLackName">Pole imienia nie może być puste</string>
+    <string name="tsLackSurname">Pole nazwiska nie może być puste</string>
+    <string name="tsLackNumberRate">Pole ocen nie może być pusty</string>
+    <string name="tsWrongNumberRate">Pole ocen może zawierać jedyne (5-15)</string>
+</resources>

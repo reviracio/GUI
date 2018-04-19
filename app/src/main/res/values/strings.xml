@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">GUI_03</string>
+    <string name="vtName">Name</string>
+    <string name="vtSurname">Surname</string>
+    <string name="vtNumberRate">Number rate</string>
+    <string name="bRate">Rate</string>
+    <string name="tsLackName">Name field can not be empty</string>
+    <string name="tsLackSurname">Surame field can not be empty</string>
+    <string name="tsLackNumberRate">Number rate can not be empty</string>
+    <string name="tsWrongNumberRate">The evaluation field may contain only (5-15)</string>
+</resources>
